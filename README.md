@@ -48,13 +48,13 @@ Website images:
 ---
 
 ## ⚙️ Setup Instructions
- **Clone the Repo
+ ### Clone the Repo
  ```bash
  git clone https://github.com/<your-username>/multi-disease-predictor.git
  cd multi-disease-predictor
 
  ```
- **Backend Setup
+ ### Backend Setup
  ```bash
   cd backend
   python3 -m venv venv
@@ -64,7 +64,7 @@ Website images:
 ```
 Backend will run at: http://127.0.0.1:5000
 
-**Frontend Setup
+### Frontend Setup
 ``` bash
 cd frontend
 npm install
@@ -76,7 +76,7 @@ Frontend will run at:
   
 ---
 
-🛠️ Future Improvements
+## 🛠️ Future Improvements
 
 - Add more diseases (Kidney, Stroke, etc.)
 - Deploy with Docker for production
@@ -85,7 +85,7 @@ Frontend will run at:
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Rudra Shekhare
 Computer Engineering | Data Science & Machine Learning Enthusiast
