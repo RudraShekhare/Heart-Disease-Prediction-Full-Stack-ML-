@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pkl
+venv/
+.env
+
+# Node / React
+node_modules/
+build/
+dist/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
